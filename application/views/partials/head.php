@@ -1,4 +1,4 @@
- 
+
             <div class="content-page">
 
                 <!-- ========== Topbar Start ========== -->
@@ -41,6 +41,6 @@
              
                 <div class="row">
                     <div class="col-lg-12 mt-2 mb-2">
-                        <?php $this->load->view('partials/alerts'); ?>
-                     </div>
+                        <!-- alerts -->
+                    </div>
                 </div>
